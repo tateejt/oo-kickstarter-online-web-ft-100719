@@ -10,4 +10,4 @@ class Project
     @backer << backer
     backer.back_project(self) unless backed_projects.include?(self)
   end
-end
+en
